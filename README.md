@@ -46,11 +46,11 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
 
-¿Cuándo?
+**¿Cuándo?**
 
 Ruby fue creado por el programador el japonés Yukihiro "Matz" Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995. Combina una sintaxis inspirada en Python y Perl con características de programación orientada a objetos similares a Smalltalk. Comparte también funcionalidad con otros lenguajes de programación como Lisp, Lua, Dylan y CLU. Ruby es un lenguaje de programación interpretado en una sola pasada y su implementación oficial es distribuida bajo una licencia de software libre.
 
-¿Para qué?
+**¿Para qué?**
 
 Yukihiro Matsumoto, más conocido como Matz, creó Ruby buscando un lenguaje que se ajustara a sus necesidades. Buscaba que fuera sintácticamente simple, completamente orientado a objetos y portátil. Al no encontrar algo que se ajustara a estas características, decidió crear un lenguaje propio.
 
@@ -65,6 +65,8 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 ### 1. ¡Hola mundo!
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+
+
 
 ### 2. Pirámide
 
