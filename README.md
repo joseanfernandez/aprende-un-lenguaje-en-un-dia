@@ -28,7 +28,7 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
-**"Los chicos del maíz"**
+**"Frente Popular de Judea"**
 
 * José Antonio Fernández García
 * Cyntia García Ruíz
