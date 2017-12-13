@@ -58,7 +58,7 @@ Yukihiro Matsumoto, más conocido como Matz, creó Ruby buscando un lenguaje que
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 
-Para windows hemos tenido que instalar [Ruby Installer](href="http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p451.exe?direct") y para Mac no es necesario instalarlo.
+Para windows hemos tenido que instalar [Ruby Installer](http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p451.exe?direct) y para Mac no es necesario instalarlo.
 
 ## Poniendo en práctica el lenguaje
 
