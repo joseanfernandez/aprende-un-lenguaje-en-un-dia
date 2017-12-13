@@ -58,7 +58,7 @@ Yukihiro Matsumoto, más conocido como Matz, creó Ruby buscando un lenguaje que
 
 **¿En que ámbito se utiliza?**
 
-Es de proposito general, se utiliza para el desarrollo de aplicaciones web 
+Es de proposito general, se utiliza para el desarrollo de aplicaciones web y demás.
 
 **Principales ventajas**
 
