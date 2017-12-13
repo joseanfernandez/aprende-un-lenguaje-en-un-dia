@@ -38,7 +38,7 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 
 Escribe el lenguaje de programación elegido por el grupo.
 
-* Mi lenguaje
+* Ruby
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
@@ -58,7 +58,7 @@ Yukihiro Matsumoto, más conocido como Matz, creó Ruby buscando un lenguaje que
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 
-Para windows hemos tenido que instalar el [Ruby](http://rubysur.org/aprende.a.programar/capitulos/instalacion.html)
+Para windows hemos tenido que instalar el [Ruby](http://rubysur.org/aprende.a.programar/capitulos/instalacion.html) y para Mac no es necesario instalarlo.
 
 ## Poniendo en práctica el lenguaje
 
