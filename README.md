@@ -58,6 +58,8 @@ Yukihiro Matsumoto, más conocido como Matz, creó Ruby buscando un lenguaje que
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 
+Para windows hemos tenido que instalar el [Ruby](http://rubysur.org/aprende.a.programar/capitulos/instalacion.html)
+
 ## Poniendo en práctica el lenguaje
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
