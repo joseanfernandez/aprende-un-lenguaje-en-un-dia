@@ -66,7 +66,7 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
-(Imagenes/ejercicio01.png)
+![Hola Mundo](Imagenes/ejercicio01.png)
 
 ```Ruby
 
@@ -82,7 +82,7 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
-(Imagenes/ejercicio02.png)
+![Pirámide](Imagenes/ejercicio02.png)
 
 ```Ruby
 
@@ -122,7 +122,7 @@ end
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
 
-(Imagenes/ejercicio03.png)
+![Array](Imagenes/ejercicio03.png)
 
 ```Ruby
 
