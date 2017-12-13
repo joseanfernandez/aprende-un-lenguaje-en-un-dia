@@ -74,17 +74,17 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 ### 1. ¡Hola mundo!
 
-Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+Realiza un programa que muestre por pantalla la frase **¡Hola Mundo!**.
 
 ![Hola Mundo](Imagenes/ejercicio01.png)
 
 ```Ruby
 
 
-  # Muestra por pantalla la frase "¡Hola mundo!"
+  # Muestra por pantalla la frase "¡Hola Mundo!"
 
  
-    print "¡Hola mundo!"
+    print "¡Hola Mundo!"
   ```
 
 
