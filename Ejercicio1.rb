@@ -8,6 +8,7 @@
 
 class String
   def bold; "\e[1m#{self}\e[22m" end
+  def blue; "\e[34m#{self}\e[0m" end
 end
 
-print "¡Hola Mundo!".bold
+print "\n¡Hola Mundo!".bold.blue

@@ -7,11 +7,17 @@
   
 =end
 
+class String
+  def green; "\e[32m#{self}\e[0m" end
+end
+
 puts "\nPinto una pirámide de asteriscos con la altura que quieras."
 print "Introduce la altura de la pirámide: "
 $h = Integer(gets)
 $altura = 1
 $espacios = ($h - 1)
+
+puts
 
 while $altura <= $h do
   
@@ -27,7 +33,7 @@ while $altura <= $h do
   
   $j = 1
   while $j < $altura * 2
-    print "*"
+    print "*".green
     $j +=1
   end
   
