@@ -56,6 +56,16 @@ Ruby fue creado por el programador el japonés Yukihiro "Matz" Matsumoto, quien 
 
 Yukihiro Matsumoto, más conocido como Matz, creó Ruby buscando un lenguaje que se ajustara a sus necesidades. Buscaba que fuera sintácticamente simple, completamente orientado a objetos y portátil. Al no encontrar algo que se ajustara a estas características, decidió crear un lenguaje propio.
 
+**¿En que ámbito se utiliza?**
+
+Es de proposito general, se utiliza para el desarrollo de aplicaciones web 
+
+**Principales ventajas**
+
+* Se desarrollan aplicaciones escribiendo menos código que otros frameworks, lo que permite reducir las horas de desarrollo.
+* Cuenta con una sintaxis muy legible y cómoda para desarrolladores por lo tanto es mas sencillo trabajar con este lenguaje.
+* Estas ventajas fomentan que sea un lenguaje en expansión y cada día más empresas y programadores lo utilizan.
+
 ## Herramientas de desarrollo
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
