@@ -58,13 +58,14 @@ Yukihiro Matsumoto, más conocido como Matz, creó Ruby buscando un lenguaje que
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 
-Para Mac no es necesario instalar nada y para Windows hemos tenido que instalar [Ruby Installer](http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p451.exe?direct) Luego, ejecuta el instalador, sigue los pasos de instalación y listo.
+Para Mac no es necesario instalar nada.
+
+Para Windows hemos tenido que instalar [Ruby Installer](http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p451.exe?direct) Luego, ejecuta el instalador, sigue los pasos de instalación y listo.
 
 Por último, si usas Linux, puedes usar el manejador de paquetes de preferencia. Por ejemplo, en Debian o Ubuntu, puedes instalar Ruby a través de apt:
 
 ```
 $ sudo apt-get install ruby
-
 ```
 
 ## Poniendo en práctica el lenguaje
