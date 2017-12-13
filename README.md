@@ -28,6 +28,8 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
+**"Los chicos del maíz"**
+
 * José Antonio Fernández García
 * Cyntia García Ruíz
 * Christian Raúl Amo Olsson
