@@ -69,8 +69,7 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 ```Ruby
 
     print"¡Hola mundo!"
-  
-```
+  ```
 
 
 ### 2. Pirámide
